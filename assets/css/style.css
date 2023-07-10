@@ -35,6 +35,12 @@ body::before {
   }
 }
 
+@media (max-width: 768px) { /* Adjust the screen size as per your requirements */
+  body::before {
+    background-size: contain; /* or any other value you prefer */
+  }
+}
+
 a {
   color: #18d26e;
   text-decoration: none;
