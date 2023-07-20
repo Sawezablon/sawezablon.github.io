@@ -1,6 +1,6 @@
 # Portfolio Project
 
-Welcome to my portfolio project! This repository showcases my work, skills, and achievements as a [your profession or area of expertise].
+Welcome to my portfolio project! This repository showcases my work, skills, and achievements as a Software Engineer.
 
 ## Table of Contents
 
