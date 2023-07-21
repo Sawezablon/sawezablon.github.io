@@ -2,6 +2,10 @@
 
 Welcome to my portfolio project! This repository showcases my work, skills, and achievements as a Software Engineer.
 
+## Live Demo
+
+A live demo of the project can be accessed [here](https://sawezablon.github.io/).
+
 ## Table of Contents
 
 - [Project Description](#project-description)
